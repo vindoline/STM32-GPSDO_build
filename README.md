@@ -2,6 +2,9 @@
 PCB for the 'Yet another GPSDO' project by AndrewBCN at EEVblog.com
 
 This repository is a place to share the Diptrace schematic and PCB design for the 10MHz GPSDO designed by AndrewBCN.
+
+![IMG_3315](https://github.com/vindoline/STM32-GPSDO_build/assets/2212487/9ee64bbe-fc1a-4b87-a1dc-b2420d6c465b)
+
 This project is documented and discussed at: https://www.eevblog.com/forum/projects/yet-another-diy-gpsdo-yes-another-one/
 
 The PCB is designed to fit into a common 100 x 76 x 35 mm extruded aluminum project that is commonly available on eBay:
