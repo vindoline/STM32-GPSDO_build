@@ -5,3 +5,4 @@ This repository is a place to share the Diptrace schematic and PCB design for th
 This project is documented and discussed at: https://www.eevblog.com/forum/projects/yet-another-diy-gpsdo-yes-another-one/
 
 
+![s-l1600](https://github.com/vindoline/STM32-GPSDO_build/assets/2212487/7cb8f290-8030-44d4-8aaf-4e12ccee9906)
